@@ -1,0 +1,183 @@
+[
+  [
+    {
+        "id": 1,
+        "title": "Laptop Cooling Pad",
+        "description": "Cooling pad with dual fans and adjustable height for laptops up to 17 inches.",
+        "price": 25.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.2
+    },
+    {
+        "id": 2,
+        "title": "Portable Power Bank",
+        "description": "10,000mAh portable power bank with dual USB ports and fast charging.",
+        "price": 21.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.4
+    },
+    {
+        "id": 3,
+        "title": "Smart LED Light Strip",
+        "description": "16-foot RGB light strip with remote control and app support.",
+        "price": 32.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "title": "Wireless Earbuds",
+        "description": "Bluetooth wireless earbuds with noise isolation and charging case.",
+        "price": 39.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "title": "Gaming Mouse",
+        "description": "Ergonomic gaming mouse with customizable RGB lighting and 7 buttons.",
+        "price": 29.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.7
+    },
+    {
+        "id": 6,
+        "title": "4K Action Camera",
+        "description": "Waterproof 4K action camera with wide-angle lens and Wi-Fi connectivity.",
+        "price": 74.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "title": "Smart Thermostat",
+        "description": "Wi-Fi enabled smart thermostat with app control and energy-saving modes.",
+        "price": 119.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.6
+    },
+    {
+        "id": 8,
+        "title": "Noise-Isolating Earplugs",
+        "description": "Reusable silicone earplugs with noise reduction rating of 33dB.",
+        "price": 8.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.1
+    },
+    {
+        "id": 9,
+        "title": "Adjustable Dumbbells",
+        "description": "Pair of adjustable dumbbells with weight range from 5 to 52.5 pounds.",
+        "price": 249.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.8
+    },
+    {
+        "id": 10,
+        "title": "Electric Toothbrush",
+        "description": "Rechargeable electric toothbrush with 5 cleaning modes and 2-minute timer.",
+        "price": 39.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.7
+    },  
+  {
+        "id": 11,
+        "title": "Wireless Mouse",
+        "description": "Compact wireless mouse with adjustable DPI and ergonomic design.",
+        "price": 19.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "title": "Mechanical Keyboard",
+        "description": "RGB backlit mechanical keyboard with customizable keys.",
+        "price": 49.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.8
+    },
+    {
+        "id": 13,
+        "title": "Noise Cancelling Headphones",
+        "description": "Wireless headphones with noise-cancelling feature and 20 hours of battery life.",
+        "price": 99.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.7
+    },
+    {
+        "id": 14,
+        "title": "USB-C Hub",
+        "description": "7-in-1 USB-C hub with HDMI, USB-A, and SD card reader.",
+        "price": 24.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.3
+    },
+    {
+        "id": 15,
+        "title": "Portable SSD",
+        "description": "500GB portable SSD with USB-C connectivity for fast file transfers.",
+        "price": 59.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.6
+    },
+    {
+        "id": 16,
+        "title": "Smartphone Stand",
+        "description": "Adjustable stand compatible with most smartphones and tablets.",
+        "price": 12.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.2
+    },
+    {
+        "id": 17,
+        "title": "Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with deep bass and 10-hour playtime.",
+        "price": 29.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.4
+    },
+    {
+        "id": 18,
+        "title": "Webcam",
+        "description": "HD webcam with built-in microphone and plug-and-play compatibility.",
+        "price": 39.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.1
+    },
+    {
+        "id": 19,
+        "title": "External Monitor",
+        "description": "24-inch Full HD monitor with adjustable stand and HDMI input.",
+        "price": 149.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.3
+    },
+    {
+        "id": 20,
+        "title": "Wireless Charger",
+        "description": "Fast wireless charger compatible with most smartphones.",
+        "price": 18.99,
+        "currency": "USD",
+        "image": "https://via.placeholder.com/150",
+        "rating": 4.5
+    }
+]
